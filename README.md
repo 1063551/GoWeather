@@ -14,7 +14,7 @@ To see the valid format of the arguments:
     -location string
     	  a valid location (default "Barcelona")
 ```
-And now run the program with your preferred location (in this case, Barcelona):
+And now run the program with your preferred location (in this case, New York):
 ```bash
   go run main.go New York
 ```
