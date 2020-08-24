@@ -1,2 +1,2 @@
 # GoWeather
-A CLI tool to provide the weather on certain locations written in Go.
+A CLI tool to provide the weather on a given location written in Go.
