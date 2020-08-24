@@ -18,3 +18,7 @@ And now run the program with your preferred location (in this case, Barcelona):
 ```bash
   go run main.go Barcelona
 ```
+
+## To-Do
+- Make efficient code to search for cities with the same name, choose the most inhabited one for example.
+- Accept multiple cities as input.
