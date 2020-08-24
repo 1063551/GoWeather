@@ -22,3 +22,5 @@ And now run the program with your preferred location (in this case, New York):
 ## To-Do
 - Make efficient code to search for cities with the same name, choose the most inhabited one for example.
 - Accept multiple cities as input.
+- That the user specifies (or not) the country.
+- Give the user a choice of parameters to be displayed.
