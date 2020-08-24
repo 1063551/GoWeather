@@ -16,7 +16,7 @@ To see the valid format of the arguments:
 ```
 And now run the program with your preferred location (in this case, Barcelona):
 ```bash
-  go run main.go Barcelona
+  go run main.go New York
 ```
 
 ## To-Do
